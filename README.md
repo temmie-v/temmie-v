@@ -6,7 +6,7 @@ I'm studying materials science in Tokyo Institute of Technology. Rarely coding. 
 | AtCoder    | [temmie_](https://atcoder.jp/users/temmie_) Rating: 879 |
 | Codeforces | [temmie_](https://codeforces.com/profile/temmie_) Rating: 1473 |
 | note       | [temmie](https://note.com/temmie) |
-| Twitter    | [temmie](https://twitter.com/co_planar) |
+| Twitter    | [temmie](https://twitter.com/intent/user?user_id=973892088470257669) |
 
 Languages I've written: `C, C++, Python, Java, Google Apps Script`
 
