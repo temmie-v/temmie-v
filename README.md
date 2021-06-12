@@ -1,4 +1,21 @@
-### Hi there 👋
+I'm studying materials science in Tokyo Institute of Technology. Rarely coding. 🔰
+
+| cite | ID |
+| ---- | ---- |
+| GitHub     | [temmie-v](https://github.com/temmie-v) |
+| AtCoder    | [temmie_](https://atcoder.jp/users/temmie_) Rating: 879 |
+| Codeforces | [temmie_](https://codeforces.com/profile/temmie_) Rating: 1473 |
+| note       | [temmie](https://note.com/temmie) |
+| Twitter    | [temmie](https://twitter.com/co_planar) |
+
+Languages I've written: `C, C++, Python, Java, Google Apps Script`
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temmie-v&layout=compact"/>
+</a>
 
 <!--
 **temmie-v/temmie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
