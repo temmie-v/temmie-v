@@ -1,4 +1,4 @@
-I'm studying materials science in Tokyo Institute of Technology. Rarely coding. 🔰
+I'm studying materials science in Tokyo Institute of Technology. 🔰
 
 | cite | ID |
 | ---- | ---- |
@@ -8,7 +8,9 @@ I'm studying materials science in Tokyo Institute of Technology. Rarely coding. 
 | note       | [temmie](https://note.com/temmie) |
 | Twitter    | [temmie](https://twitter.com/intent/user?user_id=973892088470257669) |
 
-Languages I've written: `C, C++, Python, Java, Google Apps Script`
+I'm currently learning: 
+- programming ... `Swift, Java, HTML, CSS` at [Titech App Project](https://titech.app/) (Developer Circle)
+- condensed matter physics at Department of Materials Science and Engineering, School of Materials and Chemical Technology
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&count_private=true"/>
