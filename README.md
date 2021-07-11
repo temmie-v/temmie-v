@@ -12,12 +12,12 @@ I'm currently learning:
 - programming ... `Swift, Java, HTML, CSS` at [Titech App Project](https://titech.app/) (Developer Circle)
 - condensed matter physics at Department of Materials Science and Engineering, School of Materials and Chemical Technology
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&count_private=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temmie-v&layout=compact"/>
-</a>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&theme=chartreuse-dark&count_private=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=temmie-v&layout=compact&theme=chartreuse-dark)
+
+Recently I've been working on:\
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=temmie-v&repo=Decision-Making&theme=chartreuse-dark)
+
 
 <!--
 **temmie-v/temmie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
