@@ -17,6 +17,7 @@ I'm currently learning:
 
 Recently I've been working on:\
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=temmie-v&repo=Decision-Making&theme=chartreuse-dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=temmie-v&repo=phonon-exercise&theme=chartreuse-dark)
 
 
 <!--
