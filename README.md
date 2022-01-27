@@ -1,5 +1,9 @@
 I'm studying materials science in Tokyo Institute of Technology. 🔰
 
+[![AtCoder: magurofly](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftemmie_)](https://atcoder.jp/users/temmie_)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=temmie_v&left_color=gray&right_color=blue)
+
+
 | cite | ID |
 | ---- | ---- |
 | GitHub     | [temmie-v](https://github.com/temmie-v) |
@@ -8,17 +12,8 @@ I'm studying materials science in Tokyo Institute of Technology. 🔰
 | note       | [temmie](https://note.com/temmie) |
 | Twitter    | [temmie](https://twitter.com/intent/user?user_id=973892088470257669) |
 
-I'm currently learning: 
-- programming ... `Swift, Java, HTML, CSS` at [Titech App Project](https://titech.app/) (Developer Circle)
-- condensed matter physics at Department of Materials Science and Engineering, School of Materials and Chemical Technology
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&theme=chartreuse-dark&count_private=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=temmie-v&layout=compact&theme=chartreuse-dark)
-
-Recently I've been working on:\
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=temmie-v&repo=Decision-Making&theme=chartreuse-dark)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=temmie-v&repo=phonon-exercise&theme=chartreuse-dark)
-
 
 <!--
 **temmie-v/temmie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
