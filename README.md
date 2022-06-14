@@ -1,7 +1,5 @@
-I'm studying materials science in Tokyo Institute of Technology. 🔰
-
-[![AtCoder: magurofly](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftemmie_)](https://atcoder.jp/users/temmie_)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=temmie_v&left_color=gray&right_color=blue)
+- I'm studying materials science in Tokyo Institute of Technology. 🔰
+- I belong to [TitechApp](https://titech.app/), which develops apps and tools for Tokyo Tech students.
 
 
 | cite | ID |
