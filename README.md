@@ -11,8 +11,6 @@ I use this account for my college classes. (Introduction to Algorithms and Data 
 | note       | [temmie](https://note.com/temmie) |
 | Twitter    | [temmie](https://twitter.com/intent/user?user_id=973892088470257669) |
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=temmie-v&show_icons=true&theme=chartreuse-dark&count_private=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=temmie-v&layout=compact&theme=chartreuse-dark)
 
 <!--
 **temmie-v/temmie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
