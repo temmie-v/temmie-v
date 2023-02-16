@@ -1,7 +1,7 @@
 - I'm studying materials science in Tokyo Institute of Technology. 🔰
 - I belong to [TitechApp](https://titech.app/), which develops apps and tools for Tokyo Tech students.
 
-I use this account for my college classes. (Introduction to Algorithms and Data Structures)
+I also use this account for my college classes.
 
 | cite | ID |
 | ---- | ---- |
